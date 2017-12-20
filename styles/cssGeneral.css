@@ -1,0 +1,29 @@
+#accueil {
+margin-left: 20%;
+    color : white;
+    background-color: #1695D5;
+}
+
+#po {
+     margin-left: 20%;
+     margin-top: -19%;
+}
+
+th {
+    border: 1.5px solid white;
+    width:25%;
+}
+
+td{
+    border: 1.5px solid white;
+    width:25%;
+}
+
+#connexion {
+    text-align: center;
+}
+
+p {
+    font-size: 200%;
+    color : #3CB7F4;
+}
